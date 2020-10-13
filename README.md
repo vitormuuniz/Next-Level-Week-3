@@ -1,4 +1,4 @@
-# Next Level Week 1 🚀
+# Next Level Week 3 🚀
 
     To run this application you need to execute 'yarn install' in server and web directories. 
     Then in server directory you need to execute the commands 'yarn knex:migrate', 'yarn:knex seed' 
