@@ -1,6 +1,6 @@
 # Next Level Week 3 🚀
 
-##### To run this application you need to execute the following commands in backend and rontend directories: 
+##### To run this application you need to execute the following commands in backend and frontend directories: 
       
       
 ### Backend directory
